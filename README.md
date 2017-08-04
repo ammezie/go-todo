@@ -1,2 +1,2 @@
 # go-todo
-A simple TODO app with GO lang
+A simple TODO app with Go
